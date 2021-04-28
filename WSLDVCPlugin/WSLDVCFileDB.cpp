@@ -4,8 +4,7 @@
 #include "utils.h"
 #include "WSLDVCFileDB.h"
 
-#include <string>
-#include <set>
+#include <bits/stdc++.h>
 
 class fileEntry
 {
